@@ -1,7 +1,3 @@
-## 💫 About Me:
-**Most data is bias, so it's still a human job**<br>**Biyyu** is a Data Scientist based in Indonesia<br><br>He built whatever u can imagine<br><br>Learning Chinese and Japanese<br><br>>He prefers **Tea** over Coffee<br>**Kino no tabi**
-
-
 ## 🌐 Socials:
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/haroldevui) 
 
